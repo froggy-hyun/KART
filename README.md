@@ -5,8 +5,19 @@
 ### Korean Analysis, Regulation & Trading Intelligence
 
 **외국인 투자자의 한국 증시 투자 전 과정을 지원하는 AI Agent 솔루션**
+https://www.kartkr.cloud (서비스 종료)
 
-[서비스 바로가기](https://www.kartkr.cloud/) · [Frontend](https://github.com/2026-finance-ai-challenge/frontend) · [Backend](https://github.com/2026-finance-ai-challenge/backend) · [AI](https://github.com/2026-finance-ai-challenge/AI)
+[Frontend](https://github.com/2026-finance-ai-challenge/frontend) · [Backend](https://github.com/2026-finance-ai-challenge/backend) · [AI](https://github.com/2026-finance-ai-challenge/AI)
+
+<br><br>
+
+<h4 align="center">소개 영상 (클릭 시 유튜브 이동)</h3>
+
+<p align="center">
+  <a href="https://youtu.be/QoSbpQVUPuw">
+    <img src="https://img.youtube.com/vi/QoSbpQVUPuw/maxresdefault.jpg" width="700">
+  </a>
+</p>
 
 </div>
 
